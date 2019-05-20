@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1557749443 source:z:\beispiele\3akeli\projekte\s190513_matheprogramm\luxusfuntion.c
+	<stdio.h>
+	"meinschmarren.h"
+
+1557749668 z:\beispiele\3akeli\projekte\s190513_matheprogramm\meinschmarren.h
+
+1557749443 source:z:\beispiele\3akeli\projekte\s190513_matheprogramm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"meinschmarren.h"
+
+1557748219 source:z:\beispiele\3akeli\projekte\s190513_matheprogramm\mathematik.c
+
